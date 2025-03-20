@@ -1,0 +1,2 @@
+# .github
+Baccarat.Wiki organization.
